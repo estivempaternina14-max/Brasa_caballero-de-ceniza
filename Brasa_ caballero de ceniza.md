@@ -10,9 +10,13 @@ El caballero espera tu respuesta.
 
 Espacio para seguir
 
-## Brasa: caballero de ceniza
+BRASAcaballero de ceniza
 
-La aldea se quedó sin llama. ¿Cómo te llamas, guerrero?
+Toca o pulsa una tecla para comenzar
+
+## ¿Cómo te llamas?
+
+Brasa necesita un nombre que pueda gritar al viento.
 
 ## Tu decisión
 
